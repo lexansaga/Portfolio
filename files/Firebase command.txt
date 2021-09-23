@@ -1,0 +1,11 @@
+Navigate to file without CD
+
+firebase login
+
+firebase logout
+
+firebase deploy
+
+firebase project:list
+
+firebase use <app id>
